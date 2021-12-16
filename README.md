@@ -1,5 +1,6 @@
 # Password Generator
   
+  
   ## Description
   
   Create a password generator based on user input to allow 8-128 characters, consisting of upper case or lower case letters, numbers, or special characters.
@@ -25,6 +26,8 @@
   ```
   
   ## Usage
+
+  https://sbour1.github.io/password-gen
   
   nothing
   
@@ -44,6 +47,6 @@
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at bourpower@gmail.com. You can find more of my work at [SBour1](https://github.com/SBour1/).
+  If you have any questions about the repo, open an issue or contact me directly at bourpower@gmail.com. You can find more of my work at [Sbour1](https://github.com/Sbour1/).
   
   
